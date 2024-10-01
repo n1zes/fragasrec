@@ -1,0 +1,1 @@
+wget --no-host-directories --adjust-extension --mirror --page-requisites --convert-links --span-hosts https://fragasrec.com
